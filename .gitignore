@@ -1,0 +1,50 @@
+# -------------------------
+# R specific
+# -------------------------
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+.Rapp.history
+.Rprofile
+.Renviron
+*.Rcheck/
+*.tar.gz
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+.history/
+*.code-workspace
+
+# -------------------------
+# Jupyter Notebooks
+# -------------------------
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# GBM / Model Outputs
+# -------------------------
+# Common model artifacts
+*.model
+*.gbm
+*.bst
+
+# Training logs and checkpoints
+checkpoints/
+logs/
+runs/
+*.ckpt
+
+# -------------------------
+# OS / Misc
+# -------------------------
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
