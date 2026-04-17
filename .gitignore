@@ -48,3 +48,6 @@ runs/
 Thumbs.db
 *.tmp
 *.swp
+
+~$data_src.xlsx
+data_src.xlsx
